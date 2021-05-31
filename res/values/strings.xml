@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical6</string>
+    <string-array name="my_color">
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>BLUE</item>
+    </string-array>
+</resources>
